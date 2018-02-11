@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_overflow_menu_header_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingEnd="48dp"
+    android:paddingRight="48dp"
+    android:numColumns="auto_fit" />

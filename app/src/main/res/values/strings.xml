@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Top Action Overflow Menu</string>
+    <string-array name="overflow_menu_labels">
+        <item>新しいタブ</item>
+        <item>新しいシークレットタブ</item>
+        <item>ブックマーク</item>
+        <item>リーディングリスト</item>
+        <item>最近使ったタブ</item>
+        <item>履歴</item>
+        <item>問題の報告</item>
+        <item>ページ内を検索</item>
+        <item>PC版サイトをリクエスト</item>
+        <item>設定</item>
+        <item>ヘルプ</item>
+    </string-array>
+</resources>
